@@ -1,0 +1,7 @@
+.para {
+  color: white;
+}
+.list-group-item button {
+  width: 40px; /* Set width to a fixed value */
+  height: 40px; /* Remove border-radius for a square shape */
+}
